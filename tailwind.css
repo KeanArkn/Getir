@@ -23,6 +23,10 @@
   @apply text-sm pl-2;
 }
 
+.ReactCollapse--collapse {
+  @apply transition-all;
+}
+
 /* 
 .slick-prev {
   @apply absolute top-1/2 -left-8 -translate-y-1/2 hidden md:block;
